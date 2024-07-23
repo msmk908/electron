@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="8. Project">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lessons/8. Project/8. Application Menu.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lessons/8. Project/3. Retrieving Item Details.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lessons/8. Project/6. Opening Items in Reader.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lessons/8. Project/4. Showing &amp; Persisting Items.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lessons/8. Project/5. Selecting Items for Opening.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lessons/8. Project/1. Overview &amp; Setup.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lessons/8. Project/2. Submitting New Items.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lessons/8. Project/7. Deleting Items.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

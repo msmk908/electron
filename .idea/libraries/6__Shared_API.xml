@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="6. Shared API">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lessons/6. Shared API/4. clipboard.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lessons/6. Shared API/2. shell.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lessons/6. Shared API/1. process.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lessons/6. Shared API/3. nativeImage.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

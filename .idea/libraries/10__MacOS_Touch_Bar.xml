@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="10. MacOS Touch Bar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lessons/10. MacOS Touch Bar/2. Advanced Touch Bar Layouts.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lessons/10. MacOS Touch Bar/1. Touch Bar Basics.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lessons/10. MacOS Touch Bar/3. Touch Bar Integration.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

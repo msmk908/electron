@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="7. Features &amp; Techniques">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lessons/7. Features &amp; Techniques/5. Progress Bar.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lessons/7. Features &amp; Techniques/3. Notifications.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lessons/7. Features &amp; Techniques/4. Preload Scripts.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lessons/7. Features &amp; Techniques/2. Network Detection.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lessons/7. Features &amp; Techniques/1. Offscreen Rendering.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

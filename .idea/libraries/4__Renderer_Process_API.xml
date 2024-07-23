@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="4. Renderer Process API">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lessons/4. Renderer Process API/2. BrowserWindowProxy.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lessons/4. Renderer Process API/3. webFrame.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lessons/4. Renderer Process API/4. desktopCapturer.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

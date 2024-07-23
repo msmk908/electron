@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="3. Main Process API">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lessons/3. Main Process API/6. Menus.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lessons/3. Main Process API/3.3. Session - downloadItem.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lessons/3. Main Process API/2.4 BrowserWindow - Properties &amp; Methods.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lessons/3. Main Process API/7. Context Menus.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lessons/3. Main Process API/2.2 BrowserWindow - Parent &amp; Child Windows.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lessons/3. Main Process API/4. dialog.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lessons/3. Main Process API/1. app.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lessons/3. Main Process API/2.6 BrowserWindow - webContents.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lessons/3. Main Process API/8. Tray.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lessons/3. Main Process API/3.1 Session - Getting Started.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lessons/3. Main Process API/3.2 Session - Cookies.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lessons/3. Main Process API/5. Accelerators &amp; globalShortcut.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lessons/3. Main Process API/9. powerMonitor.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lessons/3. Main Process API/2.5 BrowserWindow - Window State.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lessons/3. Main Process API/10. screen.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lessons/3. Main Process API/2.3 BrowserWindow - Frameless Window.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lessons/3. Main Process API/2.1 BrowserWindow - Getting Started.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

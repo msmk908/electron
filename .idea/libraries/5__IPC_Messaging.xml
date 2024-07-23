@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="5. IPC Messaging">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lessons/5. IPC Messaging/2. Remote Module.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lessons/5. IPC Messaging/3. IPC Invoke &amp; Handle.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lessons/5. IPC Messaging/1. IPC Communication.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
